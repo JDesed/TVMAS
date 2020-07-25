@@ -1,2 +1,2 @@
-# TVMAS
+# TECNOMAS
 Biblia
